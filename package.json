@@ -3,6 +3,6 @@
     "title": "Objective C Syntax Highlighting",
     "description": "Maps .m and .h files to the csharp langauge mode. Appears to be the most similar to objective c",
     "homepage": "https://github.com/matthaywardwebdesign/brackets-objc/",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Matt Hayward <matt@matthayward.com.au> (http://www.matthayward.com.au)"
 }
