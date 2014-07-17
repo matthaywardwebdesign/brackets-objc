@@ -4,5 +4,6 @@ define(function (require, exports, module) {
     var language = LanguageManager.getLanguage("csharp");
 
     language.addFileExtension("m");
+    language.addFileExtension("h");
     language.addFileName("Objective C");
 });
